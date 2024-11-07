@@ -1,7 +1,3 @@
-Here's a README file for the provided SHA-3 implementation:
-
----
-
 # SHA-3 Hash Implementation
 
 This project implements the SHA-3 cryptographic hash function based on the Keccak algorithm. It allows for hashing files with various SHA-3 hash sizes, including 224, 256, 384, and 512 bits.
